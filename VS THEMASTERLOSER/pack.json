@@ -1,0 +1,9 @@
+{
+	"name": "VS THEMASTERLOSER",
+	"description": "Solo un mod feo que hice para ver como era psych engine",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Enphoso_Dialogue.png">
+  <SubTexture name="talk0000" x="0" y="0" width="435" height="435" frameX="0" frameY="0" frameWidth="435" frameHeight="435" />
+</TextureAtlas>

@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "fortness",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bip"
+		},
+		{
+			"sound": "fortness",
+			"speed": 0.05,
+			"portrait": "d_r_dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "quien sos?"
+		},
+		{
+			"sound": "fortness",
+			"speed": 0.05,
+			"portrait": "d_r_dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ah el chico ese de fnf "
+		},
+		{
+			"sound": "fortness",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah"
+		},
+		{
+			"sound": "fortness",
+			"speed": 0.05,
+			"portrait": "d_r_dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "me gustaria tener una terrible batalla de rap contigo individuo"
+		},
+		{
+			"sound": "fortness",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "lo que sea bruh"
+		}
+	]
+}

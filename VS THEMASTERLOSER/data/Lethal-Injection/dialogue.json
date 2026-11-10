@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "Lethal-Injection",
+			"speed": 0.05,
+			"portrait": "enphoso_dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hola boyfriend"
+		},
+		{
+			"sound": "Lethal-Injection",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "que hace una bola negra en lo que sea este campo"
+		},
+		{
+			"sound": "Lethal-Injection",
+			"speed": 0.05,
+			"portrait": "enphoso_dialogue",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "¡SOY ENPHOSO!"
+		},
+		{
+			"sound": "lethal-injection",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "enphoso?"
+		},
+		{
+			"sound": "lethal-injection",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "que es eso"
+		},
+		{
+			"sound": "lethal-injection",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no tengo algo en mente con una bola negra"
+		},
+		{
+			"sound": "lethal-injection",
+			"speed": 0.05,
+			"portrait": "enphoso_dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "soy el malo de enfosi controlo algunos gaggles y asi"
+		},
+		{
+			"sound": "lethal-injection",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "de verdad?"
+		},
+		{
+			"sound": "lethal-injection",
+			"speed": 0.05,
+			"portrait": "enphoso_dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "si"
+		},
+		{
+			"sound": "lethal-injection",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "me pregunto si una batalla de aura ah no de rap de hara reflexionar sobre lo que hagas no se que tan malo sea pero bueno"
+		},
+		{
+			"sound": "lethal-injection",
+			"speed": 0.05,
+			"portrait": "enphoso_dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "creeme no sabes en lo que te estas metiendo"
+		},
+		{
+			"sound": "lethal-injection",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "[insertar sentimiento de asustado.LOL]"
+		}
+	]
+}

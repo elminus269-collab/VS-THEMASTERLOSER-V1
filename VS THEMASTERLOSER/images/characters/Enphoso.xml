@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Enphoso.png">
+  <SubTexture name="singLEFT0000" x="0" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+  <SubTexture name="singDOWN0000" x="512" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+  <SubTexture name="singUP0000" x="1024" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+  <SubTexture name="singRIGHT0000" x="1536" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+  <SubTexture name="idle0000" x="2048" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+</TextureAtlas>

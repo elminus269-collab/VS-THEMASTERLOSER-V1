@@ -1,0 +1,36 @@
+{
+	"storyName": "loser week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"fortness",
+			"d_r",
+			[
+				135,
+				113,
+				195
+			]
+		],
+		[
+			"lethal injection",
+			"enphoso",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "loser week"
+}
